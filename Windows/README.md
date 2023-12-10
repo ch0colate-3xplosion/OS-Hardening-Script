@@ -7,8 +7,6 @@ This PowerShell script is meant to harden the Windows 10/11 Operating System
 - Add Enable SMB Signing
 - Add Disable SMBv1 
 - Add Enable SMBv2
-- Add Options to Install Mozilla FireFox
-- Add Options to Install Google Chrome
 - Add Continous Update Schedule
 - Add Continous Virus Update Schedule
 - Add Parameters to Windows Group Policy 
